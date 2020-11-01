@@ -5,3 +5,8 @@
 .link-color{
     color:yellow
 }
+
+.hidden{
+    display: none;
+}
+
